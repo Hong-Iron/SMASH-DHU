@@ -1,0 +1,75 @@
+{
+  "code": "DHU",
+  "title": "SMASH DHU",
+  "school": "대구한의대",
+  "fullName": "대구한의대학교",
+  "campusName": "대구한의대학교 삼성캠퍼스",
+  "tagline": "대구한의대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대구한의대학교 삼성캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대구한의대학교 삼성캠퍼스 3D 화면과 SMASH DHU 제목",
+  "url": "https://hong-iron.github.io/SMASH-DHU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 177931164
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.7934463,
+        128.7722257
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 서쪽 끝 대지(점촌동 266-17)에 2024년 사용승인을 받은 새빛교회 건물이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        35.7932197,
+        128.7719865
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 서남쪽 끝 임야(266-21)의 울타리 친 풀밭으로, 사진에 건물이 없다."
+    },
+    {
+      "at": [
+        35.7974517,
+        128.7754873
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 5호관 북쪽 끝의 맨땅과 숲 위에 그려진 윤곽으로, 사진에 지붕이 없다."
+    },
+    {
+      "at": [
+        35.7936596,
+        128.7726655
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 서남쪽 대지(266-8)에 단독주택 용도로 등록된 3층 집이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        35.7935264,
+        128.7728073
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 단독주택과 같은 대지(266-8)의 마당 안 작은 윤곽으로, 학교 땅이 아니다."
+    }
+  ],
+  "look": {
+    "A동(1호관),H동": {
+      "style": "ribbon",
+      "wall": "#e9eae8",
+      "glass": "#4e5668",
+      "frame": "#a4a29d"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
